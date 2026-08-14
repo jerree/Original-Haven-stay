@@ -98,7 +98,7 @@ if (loginForm) {
         // Save who logged in
         localStorage.setItem("currentUser", JSON.stringify(user));
         alert("Login successful!");
-        window.location.href = "index1.html";
+        window.location.href = "index.html";
     });
 }
 
@@ -126,7 +126,7 @@ if (
         window.location.pathname.includes("register.html")
     )
 ) {
-    window.location.href = "index1.html";
+    window.location.href = "index.html";
 }
 
 // ==============================

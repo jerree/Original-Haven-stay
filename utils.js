@@ -98,6 +98,6 @@ if (logoutBtn) {
         localStorage.removeItem("currentUser");
         updateNavigation();
         alert("You have logged out.");
-        window.location.href = "index1.html";
+        window.location.href = "index.html";
     });
 }
