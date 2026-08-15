@@ -66,13 +66,13 @@ const exploreData = {
       tag: "Spa & Recovery",
       title: "Restore With Curated Spa Journeys",
       desc: "Full-service spas designed around rest, not just treatments.",
-      img: "assets/wellness-1.webp"
+      img: "assets/wellness-1.jpg"
     },
     {
       tag: "Fitness",
       title: "Studios Built for Every Routine",
       desc: "24-hour fitness centers with equipment for strength, cardio, and recovery.",
-      img: "assets/wellness-2.webp"
+      img: "assets/wellness-2.jpg"
     }
   ]
 };
@@ -110,8 +110,8 @@ const offersData = [
   { title: "10,000 Points Across our Luxury Brands", img: "assets/offer-1.jpg" },
   { title: "Up to 20% Off Your Resort Stay", img: "assets/offer-2.jpg" },
   { title: "Earn up to 5,000 Bonus Points per Stay", img: "assets/offer-3.jpg" },
-  { title: "Free Breakfast on Weekend Getaways", img: "assets/offer-4.avif" },
-  { title: "3 Nights for the Price of 2", img: "assets/offer-5.avif" },
+  { title: "Free Breakfast on Weekend Getaways", img: "assets/offer-4.jpg" },
+  { title: "3 Nights for the Price of 2", img: "assets/offer-5.jpg" },
   { title: "Spa Credit With Every Suite Booking", img: "assets/spa-image2.jpg" }
 ];
 
